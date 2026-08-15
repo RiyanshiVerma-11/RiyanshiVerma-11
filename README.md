@@ -1,7 +1,7 @@
 <!-- Premium GitHub Profile README for Riyanshi Verma -->
 
 <div align="center">
-  <img src="assets/banner.svg" alt="Riyanshi Verma - B.Tech CSE (DS) | AI Intern @ Infosys Springboard 7.0 | Top 0.2% PromptWars" width="100%" />
+  <img src="assets/banner.svg" alt="Riyanshi Verma - B.Tech CSE (DS) | AI Intern @ Infosys Springboard 7.0 | Rank 4 HackDevengers 1.0 | Top 0.2% PromptWars" width="100%" />
 </div>
 
 <br />
@@ -27,15 +27,15 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=550&lines=AI+Intern+%40+Infosys+Springboard+7.0;Building+Agentic+Systems+%26+LLMs;Top+0.2%25+Nationally+in+Virtual+PromptWars" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=002147&center=true&vCenter=true&width=550&lines=AI+Intern+%40+Infosys+Springboard+7.0;Building+Agentic+Systems+%26+LLMs;Top+0.2%25+Nationally+in+Virtual+PromptWars" />
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=002147&center=true&vCenter=true&width=550&lines=AI+Intern+%40+Infosys+Springboard+7.0;Building+Agentic+Systems+%26+LLMs;Top+0.2%25+Nationally+in+Virtual+PromptWars" alt="Typing SVG" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=AI+Intern+%40+Infosys+Springboard+7.0;Rank+4%2F4.2k%2B+in+HackDevengers+1.0;Top+0.2%25+Nationally+in+Virtual+PromptWars;Building+Agentic+Systems+%26+LLMs" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=002147&center=true&vCenter=true&width=600&lines=AI+Intern+%40+Infosys+Springboard+7.0;Rank+4%2F4.2k%2B+in+HackDevengers+1.0;Top+0.2%25+Nationally+in+Virtual+PromptWars;Building+Agentic+Systems+%26+LLMs" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=002147&center=true&vCenter=true&width=600&lines=AI+Intern+%40+Infosys+Springboard+7.0;Rank+4%2F4.2k%2B+in+HackDevengers+1.0;Top+0.2%25+Nationally+in+Virtual+PromptWars;Building+Agentic+Systems+%26+LLMs" alt="Typing SVG" />
   </picture>
 </div>
 
 <br/>
 
-B.Tech Computer Science (Data Science) student passionate about building **agentic systems** using **Python, FastAPI, and LLMs**. Built scalable healthcare, civic, and fintech AI applications through academic, internship, and hackathon projects. **Ranked in the top 0.2% nationally (Rank 1 Women Developer & Rank 30 / 26,090+) in Virtual PromptWars 2026**.
+B.Tech Computer Science (Data Science) student passionate about building **agentic systems** using **Python, FastAPI, and LLMs**. Built scalable healthcare, civic, and fintech AI applications through academic, internship, and hackathon projects. **Ranked 4th / 4.2k+ in HackDevengers 1.0 (HospiSynAI)** & **top 0.2% nationally (Rank 1 Women Dev & Rank 30 / 26,090+) in Virtual PromptWars 2026**.
 
 *   🎓 **Education:** B.Tech in CSE (Data Science) | **CGPA: 8.47 / 10.0** — Meerut Institute of Engineering and Technology (AKTU)
 *   💼 **Current Experience:** AI Intern at **Infosys Springboard 7.0** (Developing [CommAI](https://github.com/RiyanshiVerma-11/CommAI) - Enterprise Multilingual AI Mass Communication Platform)
@@ -101,7 +101,8 @@ B.Tech Computer Science (Data Science) student passionate about building **agent
 
 ### 🚀 Key Projects
 
-> **[HospiSynAI](https://github.com/RiyanshiVerma-11/HospiSynAI)** | *React, FastAPI, Docker, Neon PostgreSQL, Vercel, Render* | **[Live Demo](https://hospi-syn-ai.vercel.app/)**
+> **[HospiSynAI](https://github.com/RiyanshiVerma-11/HospiSynAI)** 🏆 **Rank 4 / 4.2k+ (HackDevengers 1.0)** | *React, FastAPI, Docker, Neon PostgreSQL, Vercel, Render* | **[Live Demo](https://hospi-syn-ai.vercel.app/)**
+> *   **Ranked 4th among 4,200+ participants** in **HackDevengers 1.0 (2026)**, an 8-hour global hackathon by Devengers, for building HospiSynAI, an AI-powered hospital management & billing platform.
 > *   Built an AI-assisted hospital consultation & billing platform where doctors enter patient symptoms/clinical notes to instantly generate structured prescriptions, dosing plans, and patient handouts in **11 Indian languages** using **FastAPI** and Groq-powered **Llama 3.3 70B** with under **1.5s latency**.
 > *   Developed a hybrid **AI Billing Auditor** that scans invoice line items before checkout, combining rule-based checks with LLM reasoning to flag **6 critical clinical and billing inconsistencies** (such as ICU+OPD conflicts, GST non-compliance, and pediatric dosing errors), simulating a **76% reduction in manual verification time** (from ~6 mins to 1.5 mins per invoice).
 > *   Containerized and deployed a decoupled React, FastAPI, and Neon PostgreSQL stack using Docker, Vercel, and Render, implementing SQLAlchemy connection pooling, role-based access control (RBAC), audit logging, and ReportLab server-side PDF receipt generation.
@@ -124,6 +125,9 @@ B.Tech Computer Science (Data Science) student passionate about building **agent
 
 ### 🏆 Achievements & Honors
 
+*   **🏆 Rank 4 / 4,200+ Participants — HackDevengers 1.0 (2026)**
+    *   Organized by **Devengers** (8-Hour Global Hackathon).
+    *   Ranked **4th among 4.2k+ participants** globally for building **HospiSynAI**, an AI-powered hospital management and billing platform featuring Groq Llama 3.3 70B clinical note processing, 11-language prescription generation, and hybrid AI billing auditing.
 *   **🏆 Rank 1 (Women Developer) & Overall Rank 30 / 26,090+ (Virtual PromptWars 2026)**
     *   Organized by **Google for Developers** & **Hack2Skills**.
     *   Ranked in the **top 0.2% nationally** out of 26,090+ participants. Developed *VoteWise AI* achieving a **96.98% AI-verified score** in code quality, security, efficiency, Google services, and accessibility.
