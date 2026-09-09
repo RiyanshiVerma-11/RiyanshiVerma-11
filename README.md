@@ -10,7 +10,8 @@
   <h3>
     <a href="https://RiyanshiVerma-11.github.io">Portfolio Webpage</a> •
     <a href="https://www.linkedin.com/in/riyanshi-verma-ba363a2b2">LinkedIn</a> •
-    <a href="https://github.com/RiyanshiVerma-11">GitHub</a> •
+    <a href="https://youtube.com/@stylishspins?si=3i0liF0d0qOHx9Z4">YouTube</a> •
+    <a href="https://www.instagram.com/builds.by.riyanshi?igsh=MTFpcGpwOTlsYmtldQ==">Instagram</a> •
     <a href="mailto:riyanshiverma46@gmail.com">Email</a>
   </h3>
 </div>
@@ -100,6 +101,11 @@ B.Tech Computer Science (Data Science) student passionate about building **agent
 ---
 
 ### 🚀 Key Projects
+
+> **[CommAI](https://github.com/RiyanshiVerma-11/CommAI)** | *React, Groq API, Llama-3.3, Vercel* | **[Live Demo](https://comm-ai-nine.vercel.app/)**
+> *   Engineered an AI-driven multilingual campaign generator supporting **22 Indian languages** powered by Groq Llama 3.3, reducing drafting turnaround time by **~70%**.
+> *   Integrated Groq API with real-time device previews to generate localized public notices with responsive multi-device rendering.
+> *   Developed an offline content compliance auditor that screens campaign drafts for shouting patterns, duplicate phrasing, and sensitive keywords prior to bulk broadcast.
 
 > **[HospiSynAI](https://github.com/RiyanshiVerma-11/HospiSynAI)** 🏆 **Rank 4 / 4.2k+ (HackDevengers 1.0)** | *React, FastAPI, Docker, Neon PostgreSQL, Vercel, Render* | **[Live Demo](https://hospi-syn-ai.vercel.app/)**
 > *   **Ranked 4th among 4,200+ participants** in **HackDevengers 1.0 (2026)**, an 8-hour global hackathon by Devengers, for building HospiSynAI, an AI-powered hospital management & billing platform.
