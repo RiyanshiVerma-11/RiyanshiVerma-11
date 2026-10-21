@@ -28,15 +28,15 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=AI+Intern+%40+Infosys+Springboard+7.0;Rank+4%2F4.2k%2B+in+HackDevengers+1.0;Top+0.2%25+Nationally+in+Virtual+PromptWars;Building+Agentic+Systems+%26+LLMs" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=002147&center=true&vCenter=true&width=600&lines=AI+Intern+%40+Infosys+Springboard+7.0;Rank+4%2F4.2k%2B+in+HackDevengers+1.0;Top+0.2%25+Nationally+in+Virtual+PromptWars;Building+Agentic+Systems+%26+LLMs" />
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=002147&center=true&vCenter=true&width=600&lines=AI+Intern+%40+Infosys+Springboard+7.0;Rank+4%2F4.2k%2B+in+HackDevengers+1.0;Top+0.2%25+Nationally+in+Virtual+PromptWars;Building+Agentic+Systems+%26+LLMs" alt="Typing SVG" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=AI+Intern+%40+Infosys+Springboard+7.0;Rank+2+Startupathon+'26;Rank+4%2F4.2k%2B+in+HackDevengers+1.0;Top+0.2%25+in+Virtual+PromptWars;Building+Agentic+Systems+%26+LLMs" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=002147&center=true&vCenter=true&width=600&lines=AI+Intern+%40+Infosys+Springboard+7.0;Rank+2+Startupathon+'26;Rank+4%2F4.2k%2B+in+HackDevengers+1.0;Top+0.2%25+in+Virtual+PromptWars;Building+Agentic+Systems+%26+LLMs" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=002147&center=true&vCenter=true&width=600&lines=AI+Intern+%40+Infosys+Springboard+7.0;Rank+2+Startupathon+'26;Rank+4%2F4.2k%2B+in+HackDevengers+1.0;Top+0.2%25+in+Virtual+PromptWars;Building+Agentic+Systems+%26+LLMs" alt="Typing SVG" />
   </picture>
 </div>
 
 <br/>
 
-B.Tech Computer Science (Data Science) student passionate about building **agentic systems** using **Python, FastAPI, and LLMs**. Built scalable healthcare, civic, and fintech AI applications through academic, internship, and hackathon projects. **Ranked 4th / 4.2k+ in HackDevengers 1.0 (HospiSynAI)** & **top 0.2% nationally (Rank 1 Women Dev & Rank 30 / 26,090+) in Virtual PromptWars 2026**.
+B.Tech Computer Science (Data Science) student passionate about building **agentic systems** using **Python, FastAPI, and LLMs**. Built scalable healthcare, civic, and fintech AI applications through academic, internship, and hackathon projects. **2nd Place Winner in Startupathon & Ideathon 2026 (Unstop)**, **Ranked 4th / 4.2k+ in HackDevengers 1.0 (HospiSynAI)** & **top 0.2% nationally (Rank 1 Women Dev & Rank 30 / 26,090+) in Virtual PromptWars 2026**.
 
 *   🎓 **Education:** B.Tech in CSE (Data Science) | **CGPA: 8.47 / 10.0** — Meerut Institute of Engineering and Technology (AKTU)
 *   💼 **Current Experience:** AI Intern at **Infosys Springboard 7.0** (Developing [CommAI](https://github.com/RiyanshiVerma-11/CommAI) - Enterprise Multilingual AI Mass Communication Platform)
@@ -131,6 +131,10 @@ B.Tech Computer Science (Data Science) student passionate about building **agent
 
 ### 🏆 Achievements & Honors
 
+*   **🥈 2nd Place Winner (Rank 2) — STARTUPATHON & IDEATHON 2026**
+    *   Organized by **WAMPire Slayers** (Powered by **Unstop**, Oct 17–18, 2026).
+    *   Recognized for demonstrating exceptional innovation, product validation, and pitching excellence.
+    *   [Verify on Unstop](https://unstop.com/p/startupathon-2026-wampire-slayers-1761321)
 *   **🏆 Rank 4 / 4,200+ Participants — HackDevengers 1.0 (2026)**
     *   Organized by **Devengers** (8-Hour Global Hackathon).
     *   Ranked **4th among 4.2k+ participants** globally for building **HospiSynAI**, an AI-powered hospital management and billing platform featuring Groq Llama 3.3 70B clinical note processing, 11-language prescription generation, and hybrid AI billing auditing.
