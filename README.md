@@ -149,7 +149,7 @@ B.Tech Computer Science (Data Science) student passionate about building **agent
 
 *   💎 **Google Skills Profile – Diamond League** *(21,635 points)* — [View Profile](https://www.cloudskillsboost.google/public_profiles/6d9c6c4c-43f1-49fa-986c-843a9f0e1fec)
 *   ⚙️ **Infosys Springboard** – Pragati: Path to Future (Cohort 6)
-*   🧠 **Infosys Springboard** – Prompt Engineering
+*   🧠 **Infosys Springboard** – Prompt Engineering (Course Completion • Issued Nov 29, 2025) — [View Certificate](assets/certificate_prompt_engineering.png)
 
 ---
 
